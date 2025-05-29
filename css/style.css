@@ -1,0 +1,30 @@
+/*
+File: index.html
+Name: Brian Frodelius
+Date: 5/28/25
+Description: CSS file for index.html
+*/
+
+/* Set body settings */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+/* Set paragraph settings */
+p {
+  margin-bottom: 16px;
+  max-width: 800px;
+}
+
+/* Edit Matthew quote */
+.quote {
+  font-style: italic;
+}
+
+/* Edit final thought sentence */
+.final-thought {
+  font-style: italic;
+  font-weight: bold;
+}
